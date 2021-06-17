@@ -1,0 +1,16 @@
+{
+    "name": "cc_node_modules",
+    "version": "0.0.1",
+    "description": "Code Challenge: Node Modules.",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "engines": {
+        "node": "12.9.0"
+    },
+    "dependencies": {
+        "esm": "^3.2.25"
+    }
+}
