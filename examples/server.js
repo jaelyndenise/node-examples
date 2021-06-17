@@ -1,5 +1,5 @@
 const http = require('http');
-const generate = require('./generate.js');
+const generateMessage = require('./generate.js');
 
 const locations = ['Bellingham', 'Marysville', 'Seattle', 'Tacoma', 'Spokane'];
 
